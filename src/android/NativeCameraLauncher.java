@@ -15,7 +15,6 @@
  */
 
 package org.wbt11a.nativecamera;
-//package com.wezka.nativecamera;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -26,7 +25,6 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.util.Calendar;
 
-import org.apache.cordova.ExifHelper;
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaInterface;
 import org.apache.cordova.CordovaPlugin;
